@@ -17,7 +17,13 @@ return {
   { import = "astrocommunity.pack.fish" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
-  { import = "astrocommunity.code-runner.compiler-nvim" },
   { import = "astrocommunity.git.codediff-nvim" },
-  { import = "astrocommunity.git.gitgraph-nvim" }
+  { import = "astrocommunity.git.gitgraph-nvim" },
+  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
+  { import = "astrocommunity.colorscheme.night-owl-nvim" },
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
+  { import = "astrocommunity.scrolling.mini-animate" },
+  { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  { import = "astrocommunity.split-and-window.neominimap-nvim" }
 }
